@@ -1,0 +1,25 @@
+{
+  "name": "custom-canvas-api",
+  "version": "1.0.14",
+  "description": "custom canvas api for common shape",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "canvas",
+    "custom API",
+    "auto wrap text"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TOMGOU/custom-canvas-api.git"
+  },
+  "author": "tomgou",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TOMGOU/custom-canvas-api/issues"
+  },
+  "homepage": "https://github.com/TOMGOU/custom-canvas-api#readme",
+  "gitHead": "6b945b1915a10fe47ea86c3225d85fd30d4775c0"
+}
